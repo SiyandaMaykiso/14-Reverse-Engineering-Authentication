@@ -1,4 +1,4 @@
-# -Reverse-Engineering-Authentication
+# Reverse-Engineering-Authentication
 
 I am Reverse engineering starter code that was provided to me
 
